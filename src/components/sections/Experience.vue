@@ -63,13 +63,13 @@ const experiences = [
           <h3 class="education-title">Education</h3>
           <div class="education-content">
             <div>
-              <p class="education-degree">B.Sc. Computer Science</p>
-              <p class="education-institution">University of Nigeria, Nsukka</p>
+              <p class="education-degree">Computer Science</p>
+              <p class="education-institution">De-vessels College, Lagos</p>
             </div>
-            <p class="education-year">2018 - 2022</p>
+            <p class="education-year">2024 - 2026</p>
           </div>
           <p class="education-extra">
-            Cisco CyberOps | TOEFL Score: 104
+            Software Engineering
           </p>
         </article>
       </div>
