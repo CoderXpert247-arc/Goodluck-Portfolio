@@ -15,7 +15,7 @@ const { elementRef, isVisible } = useScrollReveal()
         &copy; {{ new Date().getFullYear() }} Uchendu Goodluck
       </p>
       <p class="footer-credit">
-        Built with Vue 3 + Lexaro Design System
+        Built with Vue 3 + Typescript
       </p>
     </div>
   </footer>
